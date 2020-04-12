@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InvoiceDocument xmlns="http://www.semestralkaMS.cz/LS2019">
+    <ItemsInStock>
+        <ID>2457</ID>
+        <ID>8907</ID>
+        <ID>8945</ID>
+        <ID>8681</ID>
+        <ID>8209</ID>
+        <ID>7237</ID>
+        <ID>7827</ID>
+        <ID>9027</ID>
+        <ID>3727</ID>
+        <ID>9028</ID>
+        <ID>1227</ID>
+        <ID>4567</ID>
+        <ID>0091</ID>
+        <ID>2907</ID>
+        <ID>1221</ID>
+        <ID>2307</ID>
+        <ID>6667</ID>
+        <ID>5557</ID>
+        <ID>1010</ID>
+        <ID>1727</ID>
+    </ItemsInStock>
+        <Company type="Sender">
+            <Name>Bounce a.s.</Name>
+            <Adress>
+                <Street>Klatovská 29</Street>
+                <City>Plzeň</City>
+                <PostCode>323 00</PostCode>
+                <Country>Czech Republic</Country>
+            </Adress>
+            <EmailAdress>bounceoffice@gmail.com</EmailAdress>
+            <PhoneNumber>
+                <Prefix>00420</Prefix>
+                <Number>726838054</Number>
+            </PhoneNumber>
+        </Company>
+        <Company type="Reciever">
+            <RecieverID>0029</RecieverID>
+            <Name>Zuzana Drozdová</Name>
+            <Adress>
+                <Street>Plaská 60</Street>
+                <City>Brno</City>
+                <PostCode>454 00</PostCode>
+                <Country>Czech Republic</Country>
+            </Adress>
+            <EmailAdress>drozdova.zuzka@gmail.com</EmailAdress>
+            <PhoneNumber>
+                <Prefix>00420</Prefix>
+                <Number>724044567</Number>
+            </PhoneNumber>
+        </Company>
+        <Invoice>
+            <InvoiceNumber>28001387</InvoiceNumber>
+            <CreationDate>2019-03-29</CreationDate>
+            <DueDate>2019-04-29</DueDate>
+            <InvoiceItems>
+                <Item>
+                    <Description>Zubní pasta</Description>
+                    <ItemID>2457</ItemID>
+                    <Quantity>2</Quantity>
+                    <UnitPrice currency="CZK">25.00</UnitPrice>
+                    <TotalPrice currency="CZK">50.00</TotalPrice>
+                    <Picture href="pic1.png"/>
+                </Item>
+                <Item>
+                    <Description>Kartáček na zuby</Description>
+                    <ItemID>8907</ItemID>
+                    <Quantity>4</Quantity>
+                    <UnitPrice currency="CZK">56.00</UnitPrice>
+                    <TotalPrice currency="CZK">224.00</TotalPrice>
+                    <Picture href="pic2.png"/>
+                </Item>
+                <Item>
+                    <Description>Hřeben</Description>
+                    <ItemID>8945</ItemID>
+                    <Quantity>4</Quantity>
+                    <UnitPrice currency="CZK">120.00</UnitPrice>
+                    <TotalPrice currency="CZK">480.00</TotalPrice>
+                    <Picture href="pic3.png"/>
+                </Item>
+                <Item>
+                    <Description>Telefon</Description>
+                    <ItemID>8681</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">1280.00</UnitPrice>
+                    <TotalPrice currency="CZK">1280.00</TotalPrice>
+                    <Picture href="telefon.png"/>
+                </Item>
+                <Item>
+                    <Description>Dámský Šampón</Description>
+                    <ItemID>8209</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">82.00</UnitPrice>
+                    <TotalPrice currency="CZK">82.00</TotalPrice>
+                    <Picture href="ds.png"/>
+                </Item> 
+                <Item>
+                    <Description>Pánský Šampón</Description>
+                    <ItemID>7237</ItemID>
+                    <Quantity>2</Quantity>
+                    <UnitPrice currency="CZK">80.00</UnitPrice>
+                    <TotalPrice currency="CZK">160.00</TotalPrice>
+                    <Picture href="ps.png"/>
+                </Item> 
+                <Item>
+                    <Description>Hodinky</Description>
+                    <ItemID>7827</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">1256.00</UnitPrice>
+                    <TotalPrice currency="CZK">1256.00</TotalPrice>
+                    <Picture href="pic4.png"/>
+                </Item> 
+                <Item>
+                    <Description>Opalovací krém</Description>
+                    <ItemID>9027</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">125.00</UnitPrice>
+                    <TotalPrice currency="CZK">125.00</TotalPrice>
+                    <Picture href="op.png"/>
+                </Item> 
+                <Item>
+                    <Description>Žárovka</Description>
+                    <ItemID>3727</ItemID>
+                    <Quantity>5</Quantity>
+                    <UnitPrice currency="CZK">20.00</UnitPrice>
+                    <TotalPrice currency="CZK">100.00</TotalPrice>
+                    <Picture href="za.png"/>
+                </Item> 
+                <Item>
+                    <Description>Triko</Description>
+                    <ItemID>9028</ItemID>
+                    <Quantity>4</Quantity>
+                    <UnitPrice currency="CZK">500.00</UnitPrice>
+                    <TotalPrice currency="CZK">2000.00</TotalPrice>
+                    <Picture href="tr.png"/>
+                </Item> 
+                <Item>
+                    <Description>Nůžky</Description>
+                    <ItemID>1227</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">200.00</UnitPrice>
+                    <TotalPrice currency="CZK">200.00</TotalPrice>
+                    <Picture href="nu.png"/>
+                </Item> 
+                <Item>
+                    <Description>Pinzeta</Description>
+                    <ItemID>4567</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">100.00</UnitPrice>
+                    <TotalPrice currency="CZK">100.00</TotalPrice>
+                    <Picture href="pi.png"/>
+                </Item> <Item>
+                    <Description>Poznámkový blok</Description>
+                    <ItemID>2827</ItemID>
+                    <Quantity>4</Quantity>
+                    <UnitPrice currency="CZK">56.00</UnitPrice>
+                    <TotalPrice currency="CZK">224.00</TotalPrice>
+                    <Picture href="po.png"/>
+                </Item> <Item>
+                    <Description>Propiska</Description>
+                    <ItemID>0091</ItemID>
+                    <Quantity>5</Quantity>
+                    <UnitPrice currency="CZK">50.00</UnitPrice>
+                    <TotalPrice currency="CZK">250.00</TotalPrice>
+                    <Picture href="pr.png"/>
+                </Item> 
+                <Item>
+                    <Description>Tužka</Description>
+                    <ItemID>2907</ItemID>
+                    <Quantity>8</Quantity>
+                    <UnitPrice currency="CZK">10.00</UnitPrice>
+                    <TotalPrice currency="CZK">80.00</TotalPrice>
+                    <Picture href="tu.png"/>
+                </Item> 
+                <Item>
+                    <Description>Guma</Description>
+                    <ItemID>1221</ItemID>
+                    <Quantity>8</Quantity>
+                    <UnitPrice currency="CZK">5.00</UnitPrice>
+                    <TotalPrice currency="CZK">40.00</TotalPrice>
+                    <Picture href="gu.png"/>
+                </Item> 
+                <Item>
+                    <Description>Penál</Description>
+                    <ItemID>2307</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">200.00</UnitPrice>
+                    <TotalPrice currency="CZK">200.00</TotalPrice>
+                    <Picture href="pe.png"/>
+                </Item> 
+                <Item>
+                    <Description>Lampička</Description>
+                    <ItemID>6667</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">350.00</UnitPrice>
+                    <TotalPrice currency="CZK">350.00</TotalPrice>
+                    <Picture href="la.png"/>
+                </Item> 
+                <Item>
+                    <Description>Kniha</Description>
+                    <ItemID>5557</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">210.00</UnitPrice>
+                    <TotalPrice currency="CZK">210.00</TotalPrice>
+                    <Picture href="kn.png"/>
+                </Item> 
+                <Item>
+                    <Description>Sluchátka</Description>
+                    <ItemID>1010</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">250.00</UnitPrice>
+                    <TotalPrice currency="CZK">250.00</TotalPrice>
+                    <Picture href="sl.png"/>
+                </Item> 
+                <Item>
+                    <Description>Brusle</Description>
+                    <ItemID>1727</ItemID>
+                    <Quantity>1</Quantity>
+                    <UnitPrice currency="CZK">1250.00</UnitPrice>
+                    <TotalPrice currency="CZK">1250.00</TotalPrice>
+                    <Picture href="pic5.png"/>
+                </Item> 
+            </InvoiceItems>
+            <InvoiceTotals currency="CZK">
+                <Subtotal>8911.00</Subtotal>
+                <Discount>0</Discount>
+                <TaxRate>21</TaxRate>
+                <TaxAmount>1871.31</TaxAmount>
+                <Shipment>20.00</Shipment>
+                <Total>10802.31</Total>
+            </InvoiceTotals>
+        </Invoice>
+        <Notes>Žádné poznámky</Notes>
+</InvoiceDocument>
+
